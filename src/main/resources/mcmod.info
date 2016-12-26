@@ -1,14 +1,14 @@
 [
 {
-  "modid": "examplemod",
-  "name": "Example Mod",
-  "description": "Example placeholder mod.",
+  "modid": "quieterlightning",
+  "name": "Quieter Lightning",
+  "description": "Makes lightning shut up. Configurable.",
   "version": "${version}",
   "mcversion": "${mcversion}",
   "url": "",
   "updateUrl": "",
-  "authorList": ["ExampleDude"],
-  "credits": "The Forge and FML guys, for making this example",
+  "authorList": ["CerulanLumina"],
+  "credits": "Forge, Mojang.",
   "logoFile": "",
   "screenshots": [],
   "dependencies": []

@@ -51,7 +51,7 @@ public class EventHandler {
 
 				@Override
 				public float getVolume() {
-					return 6f;
+					return QuieterLightning.volume;
 				}
 
 				@Override
