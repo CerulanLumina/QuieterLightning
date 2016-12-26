@@ -18,7 +18,6 @@ public class QuieterLightning
     @EventHandler
     public void preInit(FMLPreInitializationEvent event)
     {
-    	sidedProxy.init();
     }
     
     @EventHandler
