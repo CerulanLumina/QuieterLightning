@@ -10,7 +10,7 @@ import net.minecraftforge.fml.common.event.FMLInitializationEvent;
 import net.minecraftforge.fml.common.event.FMLPreInitializationEvent;
 import net.minecraftforge.fml.common.eventhandler.SubscribeEvent;
 
-@Mod(modid = QuieterLightning.MODID, version = QuieterLightning.VERSION, clientSideOnly = true, guiFactory = "net.cerulan.quieterlightning.gui.QLGuiFactory")
+@Mod(modid = QuieterLightning.MODID, version = QuieterLightning.VERSION, clientSideOnly = true, guiFactory = "net.cerulan.quieterlightning.gui.QLGuiFactory", updateJSON = "https://raw.githubusercontent.com/CerulanLumina/QuieterLightning/master/versions.json")
 public class QuieterLightning
 {
     public static final String MODID = "quieterlightning";
